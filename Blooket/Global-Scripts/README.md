@@ -1,4 +1,4 @@
-# GLobal Hacks
+# Global Hacks
 
 ## [Add Daily Rewards](Add-Daily-Rewards.js)
 Adds 500 tokens and 300 xp (can only use once a day)
@@ -38,3 +38,11 @@ Sells All Dupes
 
 ## [Show Answer](Show-Answer.js)
 Shows the correct answer
+
+## [Auto Sell Dupes On Open](Auto-Sell-Dupes-On-Open.js)
+If you open a dupe it automatically sells it
+
+## [Enable Limited Gamemodes](Enable-Limited-Gamemodes.js)
+Enables limited game modes ex: Santa's Workshop
+
+
