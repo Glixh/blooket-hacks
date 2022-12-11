@@ -10,7 +10,7 @@
 3. Make a Bookmark.
 4. Name it the hack.
 5. Click More.
-6. Remove Url and paste code.
+6. Remove Url Type (javascript:) and paste code.
 7. Click save.
 
 
