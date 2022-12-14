@@ -17,3 +17,6 @@ Removes all oppenets glitches
 
 ## [Set Cash](Set-Cash.js)
 Sets your in game cash 
+
+## [Send Distraction](Send-Distraction.js)
+Send Distraction to opponents
