@@ -45,4 +45,7 @@ If you open a dupe it automatically sells it
 ## [Enable Limited Gamemodes](Enable-Limited-Gamemodes.js)
 Enables limited game modes ex: Santa's Workshop
 
+## [Use Any Name](Use-Any-Name.js)
+Removes random name rule
+
 
