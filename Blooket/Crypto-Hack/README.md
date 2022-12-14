@@ -20,3 +20,6 @@ Steals all of someone's crypto
 
 ## [Auto Input Password](Auto-Input-Password.js)
 Auto inputs correct password
+
+## [Always Tripple Crypto](Always-Tripple-Crypto.js)
+Always get tripple crypto
